@@ -1,5 +1,5 @@
 rcb="lose"
 if(rcb=="win"):
-  print("otha pollea")
+  print("happy for rcb fans")
 else:
-  print("otha nee pollea  illa")  
+  print("😢 sad")  
